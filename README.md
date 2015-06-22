@@ -10,4 +10,4 @@
 - [ ] sort by user ratings
 
 ## Configuration
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jguertl/slack-yelp)
