@@ -1,0 +1,16 @@
+{
+  "name": "Nearest restaurants from Slack",
+  "description": "Search nearest restaurants by category from Slack",
+  "repository": "https://github.com/jguertl/slack-yelp",
+  "keywords": ["slack", "yelp", "javascript", "heroku"],
+  "env": {
+    "YELP_KEY" : {
+      "description": "yelp key",
+      "required": true
+    },
+    "YELP_TOKEN": {
+      "description": "yelp token",
+      "required": true
+    }
+  }
+}
